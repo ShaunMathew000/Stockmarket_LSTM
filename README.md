@@ -15,14 +15,14 @@ Built an LSTM-based forecasting model in TensorFlow. Conducted EDA and engineere
 
 ### Data Upload and Preprocessing
 
-Upload the minute-level CSV dataset (TataMotors.csv)
-Fill missing values via forward fill to maintain time-series continuity
-Convert date columns to proper datetime format
+Uploaded the minute-level CSV dataset (TataMotors.csv)
+Filled missing values via forward fill to maintain time-series continuity
+Converted date columns to proper datetime format
 
 ### Feature Engineering
 
-Extract Hour and DayOfWeek from timestamps
-Analyze closing prices and volumes by hour and session (morning/afternoon)
+Extracted Hour and DayOfWeek from timestamps
+Analyzes closing prices and volumes by hour and session (morning/afternoon)
 
 ### Visualization
 
