@@ -62,10 +62,10 @@ Compare predicted and actual closing prices with visualizations
   <img width="916" height="701" alt="image" src="https://github.com/user-attachments/assets/29585da4-afd4-4be0-8783-a64be61bcd34" />
 
 
+ <img width="185" height="70" alt="image" src="https://github.com/user-attachments/assets/2a49ed2e-0a6d-40b6-8b0a-fd048c5ef26b" />
+
+
   <img width="988" height="547" alt="image" src="https://github.com/user-attachments/assets/127a5f1f-1ca4-4877-9de5-86778d5f75f9" />
-
-
-  <img width="185" height="70" alt="image" src="https://github.com/user-attachments/assets/2a49ed2e-0a6d-40b6-8b0a-fd048c5ef26b" />
 
 
   <img width="708" height="547" alt="image" src="https://github.com/user-attachments/assets/487a0fe4-8cd6-4aad-b6ed-554cbee143b1" />
